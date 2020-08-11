@@ -82,7 +82,7 @@ MODPATH=$MODULEROOT/$MODID
 print_modname
 
 ui_print "******************************"
-ui_print "Powered by Magisk (@topjohnwu)"
+ui_print "Powered by @unfaedah          "
 ui_print "******************************"
 
 ##########################################################################################
