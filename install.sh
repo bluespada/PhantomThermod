@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Phantom Thermod V1 SD660   "
+  ui_print "    Phantom Thermod V1.2 SD660   "
   ui_print "*******************************"
 }
 
